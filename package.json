@@ -51,6 +51,8 @@
     "pre-commit": "^1.0.0",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1",
     "xunit-file": "^0.0.9"
   },
   "precommit": [
